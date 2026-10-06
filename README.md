@@ -23,7 +23,7 @@ El caso se centra en:
 .
 ├── README.md
 ├── slides/
-│   └── Martin-Viveros_JI_PPWCLM_2026.pptx
+│   └── Martin-Viveros, J.I_PPWCLM 2026.pptx
 └── sql/
     ├── demo_validacion_correccion_revalidacion.sql
     └── alternativa_datediff_dateadd.sql
@@ -31,7 +31,7 @@ El caso se centra en:
 
 ### Presentación
 
-`slides/Martin-Viveros_JI_PPWCLM_2026.pptx`
+`slides/Martin-Viveros, J.I_PPWCLM 2026.pptx`
 
 Presentación utilizada durante la sesión.
 
